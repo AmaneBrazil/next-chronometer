@@ -1,0 +1,5 @@
+@tailwind components;
+
+.button {
+    @apply text-xl font-bold text-white py-2 px-4 rounded transition duration-200;
+}
